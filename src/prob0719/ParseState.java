@@ -1,5 +1,0 @@
-package prob0719;
-
-public enum ParseState {
-    PS_START, PS_MNEMONIC, PS_PSEUDO_OP, PS_NON_UNARY_1, PS_NON_UNARY_2, PS_NON_UNARY_3, PS_UNARY_1, PS_UNARY_2, PS_FINISH
-}
